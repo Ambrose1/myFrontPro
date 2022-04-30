@@ -1,0 +1,22 @@
+
+body {
+    background-color: white;
+}
+
+.broadcast {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    border-width: 2px;
+    border-color: black;
+
+}
+
+.broadcast img {
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:100%;
+}
